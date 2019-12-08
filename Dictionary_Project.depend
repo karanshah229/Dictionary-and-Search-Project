@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1571373197 source:h:\coding\c\dsa\dsa\dictionary_project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
